@@ -37,12 +37,57 @@ img#img_profile {
   border-radius: 50%;
 }
 
+#github {
+  margin-right: 10px;
+}
+
+#gmail {
+  margin-right: 15px;
+}
+
+.text-left {
+  margin-left: 55px;
+}
+
+#row-setting {
+  display: flex;
+}
+
+#img-setting {
+  display: block;
+  margin: auto;
+}
+
+#text-setting {
+  font-size: 15px;
+  color: grey;
+}
+
+#login-icon {
+ height: 7rem
+}
+
+#up-icon {
+  height: 1rem
+}
+
+#rfyp-text {
+  font-size: 0.9rem
+}
+
+#google-icon {
+  height: 1.6rem
+}
+
 footer {
    margin: 0px;
    padding: 40px;
    background: #F0F3F4 ;
 }
 
+#icon-button {
+  color: white;
+}
 
 .controls {
   position: fixed;
