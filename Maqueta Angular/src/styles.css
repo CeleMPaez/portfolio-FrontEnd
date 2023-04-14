@@ -23,6 +23,7 @@ img#img_profile {
 	align-items: center;
 	text-align: center;
 	border-radius: 50%;
+  object-fit: cover;
 }
 
 #github {
